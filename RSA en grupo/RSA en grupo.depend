@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1559917761 source:d:\c++\tercer semestre\abstracta\rsa en grupo\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<math.h>
+	"RSA.h"
+
+1559917666 d:\c++\tercer semestre\abstracta\rsa en grupo\include\rsa.h
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<string>
+	<math.h>
+	<NTL/ZZ.h>
+
+1559918972 source:d:\c++\tercer semestre\abstracta\rsa en grupo\src\rsa.cpp
+	"RSA.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<string>
+	<math.h>
+	<sstream>
+	<NTL/ZZ.h>
+
+1559918891 source:d:\c++\tercer semestre\abstracta\rsa en grupo\src\operaciones.cpp
+	"operaciones.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<string>
+	<math.h>
+	<sstream>
+	<NTL/ZZ.h>
+	"RSA.h"
+
+1559918946 d:\c++\tercer semestre\abstracta\rsa en grupo\include\operaciones.h
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<string>
+	<math.h>
+	<NTL/ZZ.h>
+	"RSA.h"
+
+1560965056 source:d:\c++\tercer semestre\abstracta\grupooo rsa\rsa en grupo\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<fstream>
+	"RSA.h"
+
+1560906763 d:\c++\tercer semestre\abstracta\grupooo rsa\rsa en grupo\include\rsa.h
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<string>
+	<math.h>
+	<NTL/ZZ.h>
+
+1560906911 source:d:\c++\tercer semestre\abstracta\grupooo rsa\rsa en grupo\src\rsa.cpp
+	"RSA.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<string>
+	<math.h>
+	<sstream>
+	<NTL/ZZ.h>
+
