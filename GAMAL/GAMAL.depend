@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1562377556 source:d:\c++\tercer semestre\abstracta\grupooo rsa\gamalaso\gamal\main.cpp
+	<iostream>
+	<string>
+	<NTL/ZZ.h>
+	<sstream>
+	"Gamal.h"
+
+1562395251 source:d:\c++\tercer semestre\abstracta\grupooo rsa\gamalaso\gamal\src\gamal.cpp
+	"Gamal.h"
+	<iostream>
+	<NTL/ZZ.h>
+	<vector>
+	<sstream>
+
+1562395104 d:\c++\tercer semestre\abstracta\grupooo rsa\gamalaso\gamal\include\gamal.h
+	<iostream>
+	<NTL/ZZ.h>
+	<vector>
+
