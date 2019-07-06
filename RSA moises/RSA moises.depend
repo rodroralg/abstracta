@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1562385299 source:d:\c++\tercer semestre\abstracta\grupooo rsa\rsa moises\main.cpp
+	<iostream>
+	<RSA.h>
+	<NTL/ZZ.h>
+	<sstream>
+	<cstdlib>
+	<fstream>
+
+1561770323 source:d:\c++\tercer semestre\abstracta\grupooo rsa\rsa moises\src\rsa.cpp
+	"RSA.h"
+
+1560571535 d:\c++\tercer semestre\abstracta\grupooo rsa\rsa moises\include\rsa.h
+	<string>
+	<iostream>
+	<NTL/ZZ.h>
+	<sstream>
+	<cstdlib>
+	<vector>
+	<Chino.h>
+
+1560003004 d:\c++\tercer semestre\abstracta\grupooo rsa\rsa moises\include\chino.h
+	<NTL/ZZ.h>
+
